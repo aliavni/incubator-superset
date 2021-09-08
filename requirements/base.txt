@@ -292,7 +292,7 @@ werkzeug==1.0.1
 #   flask-jwt-extended
 wtforms-json==0.3.3
 # via apache-superset
-wtforms==2.3.3
+wtforms==3.0.0a1
 # via
 #   flask-wtf
 #   wtforms-json
