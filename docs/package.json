@@ -19,7 +19,7 @@
     "@algolia/client-search": "^4.13.0",
     "@ant-design/icons": "^4.7.0",
     "@docsearch/react": "^3.3.3",
-    "@docusaurus/core": "^2.4.1",
+    "@docusaurus/core": "^2.4.3",
     "@docusaurus/plugin-client-redirects": "^2.4.1",
     "@docusaurus/plugin-google-gtag": "^2.4.1",
     "@docusaurus/preset-classic": "^2.4.1",
